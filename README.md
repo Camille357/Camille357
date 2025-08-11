@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Salut 👋, je suis Camille357 !</h1>
+<h1 align="center">Salut 👋, je suis Camille!</h1>
 
 <p align="center">
   Développeur passionné par l'intelligence artificielle, le développement web, la cybersécurité, et les programmes de parrainage pour pouvoir dégager des fonds pour pouvoir avancer dans ces domaines. Je proposerai des tutoriels et des comparaisons pour ces projets.].
