@@ -20,7 +20,7 @@
 -   🔭 Je travaille actuellement sur la création de tutoriels et de comparaisons sur l'IA, le développement web, la cybersécurité et les programmes de parrainage.
 -   🌱 J'apprends en ce moment une IA autonome et multi-plateforme capable de comprendre tout besoin humain et de l'aider à exécuter des tâches dans toutes sortes d'environnements, une sorte de "Jarvis".
 -   👯 Je cherche à collaborer sur des projets innovants et j'apprécie tout soutien pour faire avancer mes recherches. Pour soutenir mes projets, visitez ma page et <a href="https://camille357.github.io/Camille357/donations/donate.html" target="_blank" rel=
-     "noopener noreferrer">Soutenez mon travail</a>..
+     "noopener noreferrer">Soutenez mon travail</a>.
 -   💬 Demandez-moi n'importe quoi sur la structure d'un projet pour effectuer sa création, l'autonomie à domicile, la domotique, la programmation.
 -   📫 Comment me joindre : lecoinducomparateur@tutamail.com.
 -   ⚡ Fait amusant : Je travaille sur une IA autonome, mais la vérité, c'est que ma propre autonomie dépend beaucoup de la capacité de Gemini à comprendre mes requêtes les plus farfelues !
