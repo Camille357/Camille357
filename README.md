@@ -3,14 +3,14 @@
 <h1 align="center">Salut 👋, je suis Camille357 !</h1>
 
 <p align="center">
-  Développeur passionné par [votre domaine d'expertise, ex: l'intelligence artificielle, le développement web, la cybersécurité, et les programmes de parrainage pour pouvoir dégager des fonds pour pouvoir avancer dans ces domaines. Je proposerai des tutoriels et des comparaisons pour ces projets.].
+  Développeur passionné par l'intelligence artificielle, le développement web, la cybersécurité, et les programmes de parrainage pour pouvoir dégager des fonds pour pouvoir avancer dans ces domaines. Je proposerai des tutoriels et des comparaisons pour ces projets.].
   Je construis des solutions innovantes et j'adore transformer les idées en réalité.
 </p>
 
 <p align="center">
   🚀 Découvrez mes projets et mes articles sur mon site web :
   <br>
-  <a href="https://votre-site-web.com" target="_blank"><b>👉 votre-site-web.com 👈</b></a>
+  <a href="none" target="_blank"><b>👉 work in progress... 👈</b></a>
 </p>
 
 ---
