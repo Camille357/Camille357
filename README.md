@@ -10,7 +10,7 @@
 <p align="center">
   🚀 Découvrez mes projets et mes articles sur mon site web :
   <br>
-  <a href="https://lcdc-lecoinducomparateur.github.io/sponsorship-site/" target="_blank"><b>👉 work in progress... 👈</b></a>
+  <a href="https://lecoinducomparateur.pages.dev/" target="_blank"><b>👉 work in progress... 👈</b></a>
 </p>
 
 ---
